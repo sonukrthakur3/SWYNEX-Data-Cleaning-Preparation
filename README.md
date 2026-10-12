@@ -23,26 +23,41 @@ I used the **Netflix Movies and TV Shows** dataset from Kaggle to perform real-w
 **Tools Used:** Python, Pandas, Google Colab
 
 
-# SWYNEX - Task 2: Exploratory Data Analysis (EDA) & Visualization
+# SWYNEX Technologies Virtual Internship
 
-This repository contains my submission for **Task 2** of the **SWYNEX Technologies Virtual Internship**.
+This repository contains my submissions for the **SWYNEX Technologies Data Analytics Virtual Internship**.
 
-## Objective
-Perform exploratory data analysis on the cleaned Netflix dataset to calculate summary statistics, identify key trends/patterns/anomalies, generate visual charts, and document useful insights.
+---
 
-## Files in this Repository
-* `cleaned_netflix_data.csv`: Cleaned dataset from Task 1.
-* `task2_eda.ipynb`: Google Colab / Jupyter Notebook containing the Python code for EDA and data visualization.
-* `chart1_content_type.png`: Pie chart showing Movies vs TV Shows distribution.
-* `chart2_yearly_trend.png`: Line chart showing catalog growth over the years.
-* `chart3_top_countries.png`: Bar chart of top content-producing countries.
-* `chart4_ratings.png`: Bar chart showing content rating distributions.
+## 📂 Task 2: Exploratory Data Analysis (EDA) & Data Visualization
 
-## Key Statistics & Insights
-1. **Content Type Distribution:** Movies make up **69.1%** of the catalog, while TV Shows comprise **30.9%**.
-2. **Peak Addition Years:** Content acquisition skyrocketed between 2016 and 2019, peaking in **2019 with over 2,100 additions**.
-3. **Geographic Distribution:** The **United States** (2,546 titles) and **India** (923 titles) are the leading producers of content on the platform.
-4. **Target Audience:** Over **60%** of titles are rated **TV-MA** or **TV-14**, showing a clear focus on mature and young-adult demographics.
-5. **Genre Trends:** **International Movies and Dramas** dominate as the most prevalent genres on Netflix.
+All files related to Task 2 are located inside the `Task2/` folder.
 
-**Tools Used:** Python, Pandas, Matplotlib, Seaborn, Google Colab
+### 📌 Objective
+Perform Exploratory Data Analysis (EDA) on the cleaned Netflix dataset using Python to calculate summary statistics, uncover trends, create visualization charts, and document key insights.
+
+---
+
+### 📁 Folder Contents (`Task2/`)
+* **`Task2/task2_eda.ipynb`** : Google Colab notebook containing the complete Python code for EDA & Visualization.
+* **`Task2/cleaned_netflix_data.csv`** : Cleaned dataset used for analysis.
+* **`Task2/chart1_content_type.png`** : Pie chart showing Movies vs TV Shows distribution.
+* **`Task2/chart2_yearly_trend.png`** : Line plot illustrating catalog growth over the years.
+* **`Task2/chart3_top_countries.png`** : Bar chart of top content-producing countries.
+* **`Task2/chart4_ratings.png`** : Bar chart displaying content rating distributions.
+
+---
+
+### 📊 Key Insights & Findings
+1. **Content Type Dominance:** Movies account for **69.1%** (5,372 titles) of the Netflix library, while TV Shows make up **30.9%** (2,398 titles).
+2. **Catalog Growth:** Platform expansion peaked between **2016 and 2019**, adding over **2,100 titles in 2019 alone**.
+3. **Geographic Distribution:** The **United States** (2,546 titles) and **India** (923 titles) are the leading producers of content on Netflix.
+4. **Target Demographic:** Over **60%** of the content is rated **TV-MA** or **TV-14**, showing a primary focus on mature and young-adult audiences.
+5. **Top Genres:** **International Movies, Dramas, and Comedies** represent the highest volume of streaming content.
+
+---
+
+### 🛠️ Tools & Libraries Used
+* **Language:** Python
+* **Environment:** Google Colab
+* **Libraries:** Pandas, Matplotlib, Seaborn
