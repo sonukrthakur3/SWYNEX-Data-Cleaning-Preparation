@@ -61,3 +61,33 @@ Perform Exploratory Data Analysis (EDA) on the cleaned Netflix dataset using Pyt
 * **Language:** Python
 * **Environment:** Google Colab
 * **Libraries:** Pandas, Matplotlib, Seaborn
+
+# SWYNEX - Task 3: Interactive Dashboard (Power BI)
+
+This section contains my submission for **Task 3** of the **SWYNEX Technologies Virtual Internship**.
+
+## 📌 Objective
+The goal was to create an interactive dashboard using a BI tool (Power BI) to communicate the main findings from the cleaned Netflix dataset clearly, including KPIs, charts, and useful filters.
+
+## 📁 Files in the `Powerbi` Folder
+*   `pb1.png`: Dashboard layout focusing on overall content distribution and yearly trends.
+*   `pb2.jpeg`: Dashboard layout featuring a global content distribution map and top genres/ratings.
+*   `pb3.jpeg`: Dashboard layout highlighting a treemap of top countries and an area chart for release year trends.
+*   *(Aapki Power BI file ka naam, e.g., `Netflix_Dashboard.pbix`)*
+
+## 📊 Dashboard Previews
+
+### Dashboard 1: Content & Trend Overview
+![Dashboard 1](Powerbi/pb1.png)
+
+### Dashboard 2: Global Reach & Demographics
+![Dashboard 2](Powerbi/pb2.jpeg)
+
+### Dashboard 3: Release Trends & Top Countries Treemap
+![Dashboard 3](Powerbi/pb3.jpeg)
+
+## 💡 Key Insights Visualized
+1.  **Content Volume:** The platform hosts a total of 7,770 titles, with a strong dominance of Movies (69.14%) over TV Shows (30.86%).
+2.  **Global Reach:** Content originates from 121 distinct countries, with the United States and India being the top contributors.
+3.  **Audience Targeting:** The majority of content is rated TV-MA and TV-14, indicating a focus on mature audiences.
+4.  **Growth Trend:** There was a significant spike in content added around 2017-2019, followed by a slight decline in 2020/2021.
